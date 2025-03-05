@@ -41,4 +41,5 @@ https://heartdiseasedetection-taniya.streamlit.app/)
 - Improve web app UI/UX.
 
 ## Author
+Taniya Rajesh
 Developed as part of a machine learning exploration in heart disease prediction.
