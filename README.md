@@ -40,6 +40,4 @@ https://heartdiseasedetection-taniya.streamlit.app/)
 - Experiment with Random Forest and Neural Networks.
 - Improve web app UI/UX.
 
-## Author
--Taniya Rajesh
--Developed as part of a machine learning exploration in heart disease prediction.
+### Developed as part of a machine learning exploration in heart disease prediction.
