@@ -18,19 +18,6 @@ This project predicts heart disease using a Decision Tree classifier. It include
 pip install numpy pandas matplotlib seaborn scikit-learn
 ```
 
-## Usage
-```python
-import pickle
-import numpy as np
-
-with open('dtreeModel.pkl', 'rb') as model_file:
-    dtreeModel = pickle.load(model_file)
-
-sample_data = np.array([[0.396, 0.707, -0.967, -0.274, 1.293, -0.391, -1.104, 0.956, -0.707, -0.963, 0.998, 2.033, 1.184]])
-prediction = dtreeModel.predict(sample_data)
-print('Predicted Class:', prediction)
-```
-
 ## Web App
 Access the deployed web application here: [Heart Disease Prediction Web App](
 https://heartdiseasedetection-taniya.streamlit.app/)
